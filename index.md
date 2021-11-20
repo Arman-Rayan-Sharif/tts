@@ -2,7 +2,7 @@
 
 
 
-To obtain data, please go to our website [aipaa](https://aipaa.ir/).
+To obtain data, please visit our website [aipaa](https://aipaa.ir/).
 <table>
   <thead>
     <tr>
@@ -25,4 +25,4 @@ To obtain data, please go to our website [aipaa](https://aipaa.ir/).
     </tr>
   </tbody>
 </table>
-You can use our service for commercial purposes, which is of much higher quality (https://aipaa.ir/demo/voice-analysis?tag=tts/).
+You can use our service for commercial purposes, which is of much higher quality [aipaa-tts](https://aipaa.ir/demo/voice-analysis?tag=tts/).
